@@ -22,6 +22,22 @@ This project analyzes retail sales data using **Microsoft Excel** and **Power BI
 3. Customer Analysis
 4. Product Analysis
 5. Business Insights
+### 📊 Dashboard Preview
+
+#### Home
+![Home](Dashboard%20Screenshots/Home.png)
+
+#### Executive Dashboard
+![Executive Dashboard](Dashboard%20Screenshots/Executive-Dashboard.png)
+
+#### Customer Analysis
+![Customer Analysis](Dashboard%20Screenshots/Customer-Analysis.png)
+
+#### Product Analysis
+![Product Analysis](Dashboard%20Screenshots/Product-Analysis.png)
+
+#### Business Insights
+![Business Insights](Dashboard%20Screenshots/Business-Insights.png)
 
 ### Key Insights
 - Total sales: approximately **₹1.62M**
