@@ -24,16 +24,19 @@ This project analyzes retail sales data using **Microsoft Excel** and **Power BI
 5. Business Insights
 ### 📊 Dashboard Preview
 
-#### Executive Dashboard
+#### 🏠 Home
+<img src="Dashboard%20Screenshots/Home.png" width="700">
+
+#### 📈 Executive Dashboard
 <img src="Dashboard%20Screenshots/Executive-Dashboard.png" width="700">
 
-#### Customer Analysis
+#### 👥 Customer Analysis
 <img src="Dashboard%20Screenshots/Customer-Analysis.png" width="700">
 
-#### Product Analysis
+#### 📦 Product Analysis
 <img src="Dashboard%20Screenshots/Product-Analysis.png" width="700">
 
-#### Business Insights
+#### 💡 Business Insights
 <img src="Dashboard%20Screenshots/Business-Insights.png" width="700">
 
 ### Key Insights
