@@ -1,6 +1,6 @@
 # Retail Store Sales Analytics
 
-## AI-Driven Data Analytics Mini Project
+## AI-Driven Data Analytics Project
 
 This project analyzes retail sales data using **Microsoft Excel** and **Power BI**.
 
